@@ -1,6 +1,6 @@
 # ScrollView
 
-This basic app demonstrates the usage of a ScrollView.
+This basic project demonstrates the usage of a ScrollView.
 -----------------------------------------------------------
 
 ## Screenshots
