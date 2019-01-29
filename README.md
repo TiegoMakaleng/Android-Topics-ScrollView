@@ -3,5 +3,5 @@
 
 ### Screenshots
 
-<img src="screenshots/screen1.png" width="578" height="1270"/>
+<img src="screenshots/screen1.png" width="508" height="1200"/>
 
